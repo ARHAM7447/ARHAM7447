@@ -6,7 +6,6 @@
 - 🧠 Familiar with **Git, Linux, Flask, JavaScript, HTML, CSS, PHP**
 - ☁️ Exploring AWS services like **Cognito, EC2, Lambda, API Gateway**
 - 💬 Ask me about cloud basics, Python scripting, or setting up simple AWS projects
-- 📫 How to reach me: [arhamkhan744702@gmail.com] or [https://www.linkedin.com/in/arham-khan-356554294]
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love building useful tools that solve real problems
 
