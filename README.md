@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Huzaifa
+# 👋 Hi there, I'm Arham khan
 
 - 🌱 I’m currently learning **Python, AWS, and Cloud Fundamentals**
 - 👀 I’m interested in **Cloud Computing, AI Tools, and Full Stack Development**
